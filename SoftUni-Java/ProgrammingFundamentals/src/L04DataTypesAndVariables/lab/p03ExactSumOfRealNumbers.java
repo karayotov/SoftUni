@@ -1,4 +1,4 @@
-package L04.Data.Types.And.Variables.lab;
+package L04DataTypesAndVariables.lab;
 
 public class p03ExactSumOfRealNumbers {
 }
