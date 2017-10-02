@@ -14,11 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="p02SignOfIntegerNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="p02SignOfIntegerNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p02SignOfIntegerNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            <state relative-caret-position="272">
+              <caret line="16" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p03PrintingTriangle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p03PrintingTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p01BlankReceipt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p01BlankReceipt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -60,6 +80,8 @@
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p07ExchangeVarValues.java" />
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p08EmployeeData.java" />
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p01BlankReceipt.java" />
+        <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p02SignOfIntegerNumber.java" />
+        <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p03PrintingTriangle.java" />
       </list>
     </option>
   </component>
@@ -157,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.p01BlankReceipt">
+  <component name="RunManager" selected="Application.p03PrintingTriangle">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -258,14 +280,14 @@
       <module name="ProgrammingFundamentals" />
       <envs />
     </configuration>
-    <configuration name="p04VariableInHexadecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="p02SignOfIntegerNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="L04DataTypesAndVariables.exercices.*" />
+          <option name="PATTERN" value="L05MethodsDebugingAndTrubleshooting.lab.l01DeclaringAndInvokingMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="L04DataTypesAndVariables.exercices.p04VariableInHexadecimal" />
+      <option name="MAIN_CLASS_NAME" value="L05MethodsDebugingAndTrubleshooting.lab.l01DeclaringAndInvokingMethods.p02SignOfIntegerNumber" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -277,14 +299,14 @@
       <module name="ProgrammingFundamentals" />
       <envs />
     </configuration>
-    <configuration name="p05booleanVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="p03PrintingTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="L04DataTypesAndVariables.exercices.*" />
+          <option name="PATTERN" value="L05MethodsDebugingAndTrubleshooting.lab.l01DeclaringAndInvokingMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="L04DataTypesAndVariables.exercices.p05booleanVar" />
+      <option name="MAIN_CLASS_NAME" value="L05MethodsDebugingAndTrubleshooting.lab.l01DeclaringAndInvokingMethods.p03PrintingTriangle" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -335,19 +357,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.p04VariableInHexadecimal" />
-      <item index="1" class="java.lang.String" itemvalue="Application.p05booleanVar" />
-      <item index="2" class="java.lang.String" itemvalue="Application.p06StringAndObjects" />
-      <item index="3" class="java.lang.String" itemvalue="Application.p07ExchangeVarValues" />
-      <item index="4" class="java.lang.String" itemvalue="Application.p01BlankReceipt" />
+      <item index="0" class="java.lang.String" itemvalue="Application.p06StringAndObjects" />
+      <item index="1" class="java.lang.String" itemvalue="Application.p07ExchangeVarValues" />
+      <item index="2" class="java.lang.String" itemvalue="Application.p01BlankReceipt" />
+      <item index="3" class="java.lang.String" itemvalue="Application.p02SignOfIntegerNumber" />
+      <item index="4" class="java.lang.String" itemvalue="Application.p03PrintingTriangle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.p01BlankReceipt" />
-        <item index="1" class="java.lang.String" itemvalue="Application.p07ExchangeVarValues" />
-        <item index="2" class="java.lang.String" itemvalue="Application.p06StringAndObjects" />
-        <item index="3" class="java.lang.String" itemvalue="Application.p05booleanVar" />
-        <item index="4" class="java.lang.String" itemvalue="Application.p04VariableInHexadecimal" />
+        <item index="0" class="java.lang.String" itemvalue="Application.p03PrintingTriangle" />
+        <item index="1" class="java.lang.String" itemvalue="Application.p02SignOfIntegerNumber" />
+        <item index="2" class="java.lang.String" itemvalue="Application.p01BlankReceipt" />
+        <item index="3" class="java.lang.String" itemvalue="Application.p07ExchangeVarValues" />
+        <item index="4" class="java.lang.String" itemvalue="Application.p06StringAndObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +400,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1177" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -389,7 +410,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885304" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -622,17 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p01BlankReceipt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p08EmployeeData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -649,10 +659,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p01BlankReceipt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p02SignOfIntegerNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="272">
+          <caret line="16" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/lab/l01DeclaringAndInvokingMethods/p03PrintingTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
