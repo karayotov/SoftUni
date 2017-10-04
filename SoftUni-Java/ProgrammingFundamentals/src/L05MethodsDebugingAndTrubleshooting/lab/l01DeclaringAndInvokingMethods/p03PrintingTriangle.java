@@ -2,6 +2,7 @@ package L05MethodsDebugingAndTrubleshooting.lab.l01DeclaringAndInvokingMethods;
 
 import java.util.Scanner;
 
+
 public class p03PrintingTriangle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

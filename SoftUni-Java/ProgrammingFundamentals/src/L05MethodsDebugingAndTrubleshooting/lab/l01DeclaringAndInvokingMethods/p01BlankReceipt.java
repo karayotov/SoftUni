@@ -2,6 +2,7 @@ package L05MethodsDebugingAndTrubleshooting.lab.l01DeclaringAndInvokingMethods;
 
 public class p01BlankReceipt {
     public static void main(String[] args) {
+        
         PrintReceipt();
     }
 
