@@ -1,19 +1,26 @@
 package L05MethodsDebugingAndTrubleshooting.exercices;
 
+import java.math.BigDecimal;
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class p03EnglishNameofTheLastDigit {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        int givenNum = Integer.parseInt(scanner.nextLine());
+        String givenNum = scanner.nextLine();
 
-        NameOfLastDigit(givenNum);
+
+        String lastDigitString =  givenNum.substring(givenNum.length() - 1);
+        int lastDigitNum = Integer.parseInt(lastDigitString);
+        NameOfLastDigit(lastDigitNum);
     }
+
+
 
     public static void NameOfLastDigit(int number){
         String theName = "";
-        number %= 10;
+
         switch (number){
             case 0:
                 theName += "zero";
