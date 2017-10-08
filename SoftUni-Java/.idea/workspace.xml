@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p06_PrimeChecker.java" line="16" mnemonic="7" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f31faf6c-0842-423e-bd63-fe30d4eb49ad" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,43 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p15_FastPrimeChecker_Refactor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p15_FastPrimeChecker_Refactor.java">
+      <file leaf-file-name="p10_CubeProperties.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p10_CubeProperties.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p16_ComparingFloats.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p16_ComparingFloats.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="710">
-              <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p17_PrintPartOfASCIITable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p17_PrintPartOfASCIITable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p18_DifferentIntegersSize.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p18_DifferentIntegersSize.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,7 +69,6 @@
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p03EnglishNameofTheLastDigit.java" />
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p04NumbersInReversOrder.java" />
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p05FibonacciNumbers.java" />
-        <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p07PrimesInGivenRange.java" />
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p09ReversChars.java" />
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p09ReverceChars.java" />
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p09ReverseChars.java" />
@@ -114,12 +84,17 @@
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p16_ComparingFloats.java" />
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p17_PrintPartOfASCIITable.java" />
         <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p18_DifferentIntegersSize.java" />
+        <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p06_PrimeChecker.java" />
+        <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p07PrimesInGivenRange.java" />
+        <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p08_CenterPoint.java" />
+        <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p09_LongerLine.java" />
+        <option value="$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p10_CubeProperties.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="981" />
-    <option name="width" value="946" />
+    <option name="x" value="953" />
+    <option name="width" value="968" />
     <option name="height" value="1177" />
   </component>
   <component name="ProjectView">
@@ -156,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.p17_PrintPartOfASCIITable">
+  <component name="RunManager" selected="Application.p09_LongerLine">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -238,14 +213,14 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="p13VowelOrDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="p06_PrimeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="L04DataTypesAndVariables.exercices.*" />
+          <option name="PATTERN" value="L05MethodsDebugingAndTrubleshooting.exercices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="L04DataTypesAndVariables.exercices.p13VowelOrDigit" />
+      <option name="MAIN_CLASS_NAME" value="L05MethodsDebugingAndTrubleshooting.exercices.p06_PrimeChecker" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -257,14 +232,14 @@
       <module name="ProgrammingFundamentals" />
       <envs />
     </configuration>
-    <configuration name="p14_IntToHexAndBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="p07PrimesInGivenRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="L04DataTypesAndVariables.exercices.*" />
+          <option name="PATTERN" value="L05MethodsDebugingAndTrubleshooting.exercices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="L04DataTypesAndVariables.exercices.p14_IntToHexAndBinary" />
+      <option name="MAIN_CLASS_NAME" value="L05MethodsDebugingAndTrubleshooting.exercices.p07PrimesInGivenRange" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -276,14 +251,14 @@
       <module name="ProgrammingFundamentals" />
       <envs />
     </configuration>
-    <configuration name="p15_FastPrimeChecker_Refactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="p08_CenterPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="L04DataTypesAndVariables.exercices.*" />
+          <option name="PATTERN" value="L05MethodsDebugingAndTrubleshooting.exercices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="L04DataTypesAndVariables.exercices.p15_FastPrimeChecker_Refactor" />
+      <option name="MAIN_CLASS_NAME" value="L05MethodsDebugingAndTrubleshooting.exercices.p08_CenterPoint" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -295,14 +270,14 @@
       <module name="ProgrammingFundamentals" />
       <envs />
     </configuration>
-    <configuration name="p16_ComparingFloats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="p09_LongerLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="L04DataTypesAndVariables.exercices.*" />
+          <option name="PATTERN" value="L05MethodsDebugingAndTrubleshooting.exercices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="L04DataTypesAndVariables.exercices.p16_ComparingFloats" />
+      <option name="MAIN_CLASS_NAME" value="L05MethodsDebugingAndTrubleshooting.exercices.p09_LongerLine" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -334,19 +309,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.p13VowelOrDigit" />
-      <item index="1" class="java.lang.String" itemvalue="Application.p14_IntToHexAndBinary" />
-      <item index="2" class="java.lang.String" itemvalue="Application.p15_FastPrimeChecker_Refactor" />
-      <item index="3" class="java.lang.String" itemvalue="Application.p16_ComparingFloats" />
-      <item index="4" class="java.lang.String" itemvalue="Application.p17_PrintPartOfASCIITable" />
+      <item index="0" class="java.lang.String" itemvalue="Application.p17_PrintPartOfASCIITable" />
+      <item index="1" class="java.lang.String" itemvalue="Application.p06_PrimeChecker" />
+      <item index="2" class="java.lang.String" itemvalue="Application.p07PrimesInGivenRange" />
+      <item index="3" class="java.lang.String" itemvalue="Application.p08_CenterPoint" />
+      <item index="4" class="java.lang.String" itemvalue="Application.p09_LongerLine" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.p17_PrintPartOfASCIITable" />
-        <item index="1" class="java.lang.String" itemvalue="Application.p16_ComparingFloats" />
-        <item index="2" class="java.lang.String" itemvalue="Application.p15_FastPrimeChecker_Refactor" />
-        <item index="3" class="java.lang.String" itemvalue="Application.p14_IntToHexAndBinary" />
-        <item index="4" class="java.lang.String" itemvalue="Application.p13VowelOrDigit" />
+        <item index="0" class="java.lang.String" itemvalue="Application.p09_LongerLine" />
+        <item index="1" class="java.lang.String" itemvalue="Application.p08_CenterPoint" />
+        <item index="2" class="java.lang.String" itemvalue="Application.p07PrimesInGivenRange" />
+        <item index="3" class="java.lang.String" itemvalue="Application.p06_PrimeChecker" />
+        <item index="4" class="java.lang.String" itemvalue="Application.p17_PrintPartOfASCIITable" />
       </list>
     </recent_temporary>
   </component>
@@ -376,8 +351,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="981" y="0" width="946" height="1177" extended-state="0" />
-    <editor active="true" />
+    <frame x="953" y="0" width="968" height="1177" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -388,7 +362,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15708812" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23275863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -398,7 +372,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25383142" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28735632" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -419,7 +393,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25383142" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32950193" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -427,9 +401,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46934867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34446764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34446764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -458,8 +432,20 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p06_PrimeChecker.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p07PrimesInGivenRange.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -468,41 +454,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p02PracticeFloatingPointNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p04VariableInHexadecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p05booleanVar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p06StringAndObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p07ExchangeVarValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p03PracticeCharsAndStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -582,13 +533,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p05FibonachiNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p01HelloName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p04NumbersInReversOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -604,13 +548,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L07Arrays/ss.java" />
-    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p07PrimesInGivenRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p09ReversChars.java" />
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p09ReverceChars.java" />
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p05FibonacciNumbers.java">
@@ -691,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,9 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,9 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="57" lean-forward="true" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -719,9 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,24 +663,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p15_FastPrimeChecker_Refactor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p16_ComparingFloats.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        <state relative-caret-position="782">
+          <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -762,15 +687,78 @@
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p17_PrintPartOfASCIITable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L04DataTypesAndVariables/exercices/p18_DifferentIntegersSize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p01HelloName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p06_PrimeChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3553">
+          <caret line="234" column="0" lean-forward="false" selection-start-line="234" selection-start-column="0" selection-end-line="234" selection-end-column="0" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="false" />
+            <element signature="e#10148#10149#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p07PrimesInGivenRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p08_CenterPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p09_LongerLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProgrammingFundamentals/src/L05MethodsDebugingAndTrubleshooting/exercices/p10_CubeProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
