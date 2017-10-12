@@ -47,7 +47,7 @@ public class p09_LongerLine {
         return length;
     }
     public static void PrintResult(double a, double b, double c, double d){
-        DecimalFormat decimalFormat = new DecimalFormat("#.#");
+        DecimalFormat decimalFormat = new DecimalFormat("#.#########");
 
         System.out.printf("(%s, %s)(%s, %s)", decimalFormat.format(a), decimalFormat.format(b)
                 , decimalFormat.format(c), decimalFormat.format(d));

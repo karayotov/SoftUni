@@ -1,0 +1,6 @@
+C:\Users\karay\Documents\GitHub\SoftUni\PFquester-Exercises-C#\L07.Lists\00. CodeInClass\bin\Debug\_00.CodeInClass.exe.config
+C:\Users\karay\Documents\GitHub\SoftUni\PFquester-Exercises-C#\L07.Lists\00. CodeInClass\bin\Debug\_00.CodeInClass.exe
+C:\Users\karay\Documents\GitHub\SoftUni\PFquester-Exercises-C#\L07.Lists\00. CodeInClass\bin\Debug\_00.CodeInClass.pdb
+C:\Users\karay\Documents\GitHub\SoftUni\PFquester-Exercises-C#\L07.Lists\00. CodeInClass\obj\Debug\00. CodeInClass.csprojResolveAssemblyReference.cache
+C:\Users\karay\Documents\GitHub\SoftUni\PFquester-Exercises-C#\L07.Lists\00. CodeInClass\obj\Debug\_00.CodeInClass.exe
+C:\Users\karay\Documents\GitHub\SoftUni\PFquester-Exercises-C#\L07.Lists\00. CodeInClass\obj\Debug\_00.CodeInClass.pdb

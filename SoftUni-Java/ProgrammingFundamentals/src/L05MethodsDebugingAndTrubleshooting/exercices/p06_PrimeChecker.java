@@ -16,7 +16,7 @@ public class p06_PrimeChecker {
 
         if (i > 2 && (i & 1) == 0 || i == 0 || i == 1 || i % 2 == 0) return false;
 
-        for (int j = 3; j * j <= i ; j+= 2) {
+        for (int j = 3; j <= Math.sqrt(i) ; j+= 2) {
             if (i % j == 0) return false;
             if (j % 2 == 0) return false;
         }
