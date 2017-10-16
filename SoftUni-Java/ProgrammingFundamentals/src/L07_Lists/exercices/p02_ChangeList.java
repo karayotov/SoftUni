@@ -10,15 +10,19 @@ public class p02_ChangeList {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
+
         StringTokenizer strToken = new StringTokenizer(input);
         int count = strToken.countTokens();
         System.out.println(count);
-        List<Integer> list = new ArrayList<Integer>(count);
+        List<Integer> list = new ArrayList<>(count);
+
         for (int i = 0; i < count; i++) {
 
             list.add(i, Integer.parseInt((String)strToken.nextElement()));
         }
-        String listToString = list.stream().map(Object::toString).collect(Collectors.joining(", "));
+        String listToString = list.stream()
+                .map(Object::toString)
+                .collect(Collectors.joining(", "));
         System.out.println(listToString);
     }
 }
