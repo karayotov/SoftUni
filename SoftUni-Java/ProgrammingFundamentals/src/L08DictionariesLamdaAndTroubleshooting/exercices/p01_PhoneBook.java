@@ -10,7 +10,7 @@ public class p01_PhoneBook {
         String inputString = "";
         String phoneNumber = "";
         String end = "END";
-        String key = "";
+        String keys = "";
         String value = "";
 
         Map<String, String> phoneBook = new HashMap<>();
@@ -20,28 +20,28 @@ public class p01_PhoneBook {
         while (!inputString.equals(end)){
             String[] arrayInput = inputString.split("\\s+");
 
-            key = arrayInput[1].toString();
+            keys = arrayInput[1].toString();
 
 
             if (arrayInput[0].equals("A")) {
-                if (!phoneBook.containsKey(key)){
+                if (!phoneBook.containsKey(keys)){
 
                     value = arrayInput[2].toString();
-                    phoneBook.put(key, value);
+                    phoneBook.put(keys, value);
                 }else {
                     value = arrayInput[2].toString();
-                    phoneBook.put(key, value);
+                    phoneBook.put(keys, value);
 
                 }
             } else if (arrayInput[0].equals("S")) {
 
-                if (phoneBook.containsKey(key)){
-                    value = phoneBook.get(key);
-                    System.out.printf("%s -> %s%n", key, value);
+                if (phoneBook.containsKey(keys)){
+                    value = phoneBook.get(keys);
+                    System.out.printf("%s -> %s%n", keys, value);
 
                 }else {
 
-                    System.out.printf("Contact %s does not exist.%n", key); //key носи ли стойността от try скобите?
+                    System.out.printf("Contact %s does not exist.%n", keys); //keys носи ли стойността от try скобите?
                 }
             }
             inputString = scanner.nextLine();
