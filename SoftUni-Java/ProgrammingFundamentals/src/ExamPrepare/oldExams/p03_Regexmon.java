@@ -13,19 +13,34 @@ public class p03_Regexmon {
         String bojomon = "[a-zA-Z]+-[a-zA-Z]+";
         String didimon = "[^a-zA-Z-]+";
 
+
+
         Pattern patternB = Pattern.compile(bojomon);
         Pattern patternD = Pattern.compile(didimon);
-        Matcher matcherB = patternB.matcher(string);
-        Matcher matcherD = patternD.matcher(string);
-        int bigerGroup = Math.max(matcherB.groupCount(), matcherD.groupCount());
+
 
         while (true) {
+
+            Matcher matcherD = patternD.matcher(string);
+
+
             if (matcherD.find()){
-                System.out.println(matcherD.group());
-            }else return;
+                    System.out.println(matcherD.group());
+                string = string.replaceAll("^.*?([^a-zA-Z-]+)", "");
+                string = string.replace("[^a-zA-Z-]+", "");
+            }
+            else {
+                return;
+            }
+
+            Matcher matcherB = patternB.matcher(string);
+
             if (matcherB.find()){
-                System.out.println(matcherB.group());
-            }else {
+                    System.out.println(matcherB.group());
+                string = string.replaceAll("^.*?([a-zA-Z]+-[a-zA-Z]+)", "");
+                string = string.replace("[a-zA-Z]+-[a-zA-Z]+", "");
+            }
+            else {
                 return;
             }
         }
