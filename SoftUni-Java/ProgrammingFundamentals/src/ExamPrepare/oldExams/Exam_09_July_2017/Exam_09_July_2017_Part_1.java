@@ -41,7 +41,7 @@
 //    }
 //}
 
-package ExamPrepare.oldExams;
+package ExamPrepare.oldExams.Exam_09_July_2017;
 
 import java.util.Scanner;
 

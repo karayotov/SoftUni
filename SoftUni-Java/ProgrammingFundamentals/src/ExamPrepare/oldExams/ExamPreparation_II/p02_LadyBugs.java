@@ -1,6 +1,5 @@
-package ExamPrepare.oldExams.ExamPreparation2;
+package ExamPrepare.oldExams.ExamPreparation_II;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class p02_LadyBugs {
