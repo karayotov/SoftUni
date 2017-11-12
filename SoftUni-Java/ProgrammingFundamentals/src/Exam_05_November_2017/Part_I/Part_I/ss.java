@@ -35,6 +35,7 @@ public class ss {
         }
         BigDecimal sum = totalLoss.stream()
                 .reduce(BigDecimal.ZERO, BigDecimal::add);
+        String[] sumStr = sum.toString().split(".");
 
         DecimalFormat df = new DecimalFormat("#0.00000000000000000000");
 
